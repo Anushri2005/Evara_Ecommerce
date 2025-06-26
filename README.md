@@ -20,6 +20,7 @@ Evara is built to support your vision with flexibility and visual appeal.
    git clone https://github.com/Anushri2005/Evara_Ecommerce.git
 2.Navigate to the project folder
   cd Evara_Ecommerce
+  
 3.Open in your browser or set up a local server (optional)
 
 [View Demo](https://billalben.github.io/evara-ecommerce/)
